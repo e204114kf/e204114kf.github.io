@@ -1,0 +1,27 @@
+h1 {
+    color: darkorchid;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+body {
+    background-image:url(../images/14.jpg)
+}
+
+h3 {
+    background-color: darkblue;
+    color: gold;
+    text-align: center;
+}
+
+table {
+   background-color: aqua; 
+}
+
+ol {
+    background-image:url(../images/17.jpg)
+}
+
+address {
+    color: fuchsia;
+}

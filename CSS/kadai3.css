@@ -1,0 +1,23 @@
+h1 {
+    color: violet;
+    background-color: skyblue;
+    text-align: center;
+}
+
+body {
+    background-image: url(../images/07.jpg);
+}
+
+h3 {
+    text-align: center;
+    background-color: chartreuse;
+    color: black;
+}
+
+h4{
+    color: orange;
+}
+
+p {
+    color: hotpink;
+}

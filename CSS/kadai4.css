@@ -1,0 +1,45 @@
+body {
+    background-image: url(../images/1.jpeg);
+}
+
+.img1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img2 {
+    display: flex;
+    justify-content: space-around;
+} 
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    color:black;
+}
+
+h1.head {
+    background-color:blueviolet;
+    color: yellow;
+}
+
+h1.foot {
+    background-color: antiquewhite;
+    color: chartreuse;
+}
+
+h2.ho1 {
+    background-color: crimson;
+    color: black;
+}
+
+h2.ho2 {
+    background-color: orange;
+    color: ghostwhite;
+}

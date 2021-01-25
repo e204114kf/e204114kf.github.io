@@ -1,0 +1,152 @@
+header {
+    width: 100%;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    color: black;
+}
+
+div.menu {
+    background-color: black;
+    width: 90%;
+    height: 50px;
+    margin-left: 5%;
+    margin-right: 0;
+    background-color: darkgreen;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+div.menu1 {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 0;
+    margin-left: 5%;
+    width: 30%;
+    height: 50px;
+    font-size: 35px;
+    text-align: center;
+    color: floralwhite;
+}
+
+div.menu2 {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 0;
+    margin-left: 0;
+    width: 30%;
+    height: 50px;
+    font-size: 35px;
+    text-align: center;
+    color: floralwhite;
+}
+
+div.menu3 {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 0;
+    margin-left: 0;
+    width: 30%;
+    height: 50px;
+    font-size: 35px;
+    text-align: center;
+    color: floralwhite;
+}
+
+div.big {
+    text-align: center;
+}
+
+div.text {
+    text-align: center;
+    font-weight: bold;
+}
+
+div.people {
+    margin-left: 5%;
+    width: 90%;
+    background-color: black;
+}
+
+div.p1 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 1px;
+    margin-bottom: 0;
+    background-color: crimson;
+}
+
+div.p2 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 0;
+    background-color: crimson;
+}
+
+div.p3 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 0;
+    background-color: crimson;
+}
+
+div.p4 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 1px;
+    margin-bottom: 0;
+    background-color: crimson;
+}
+
+div.p5 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 0;
+    background-color: crimson;
+}
+
+div.p6 {
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 0;
+    background-color: crimson;
+}
+
+footer {
+    background-color: black;
+    width: 90%;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 0;
+    color: white;
+    font-size: 18px;
+}
+
+div.day {
+    text-align: right;
+}
+
+
+
